@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="webpj-0.0.1-SNAPSHOT">
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/lib/gson-2.9.0"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/lib/lombok-1.18.24"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/lib/okhttp-4.9.3"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/lib/sqlite-jdbc-3.36.0.3"/>
+        <property name="java-output-path" value="/mission2prj/target/classes"/>
+        <property name="context-root" value="webpj"/>
+    </wb-module>
+</project-modules>
